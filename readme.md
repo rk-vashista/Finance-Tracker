@@ -2,7 +2,9 @@
 
 Finance Tracker is a simple Python application to track your financial transactions. It allows you to add transactions, categorize them, and visualize the data.
 
-
+<p align="center">
+  <img alt="GIF" width="150" src="https://gifdb.com/images/high/show-me-the-money-rihanna-5fmo8g4tmxm3mc9u.webp">
+</p>
 
 ## Installation
 
